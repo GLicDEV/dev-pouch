@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import React from 'react'
 
 
