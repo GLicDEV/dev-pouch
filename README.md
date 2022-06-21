@@ -1,4 +1,8 @@
-# Dev-pouch - A simple IC desktop wallet based on Tauri & dfx
+# Dev-pouch 
+## A simple IC desktop wallet based on Tauri & dfx
+
+Dev-pouch is a sample app built to explore the workflow and dev experience with the Tauri framework. 
+Tauri is a toolkit that helps developers make applications for the major desktop platforms - using virtually any frontend framework in existence. The core is built with Rust, and the CLI leverages Node.js making Tauri a genuinely polyglot approach to creating and maintaining great apps.
 
 
 
